@@ -19,7 +19,7 @@ CHECK_FEE_LIST = [
     },
 ]
 
-MAX_FEE = 1
+MAX_FEE = 1 # максимальная комиссия за вывод с биржи
 
 OKX = {
     'api_key': '', 
