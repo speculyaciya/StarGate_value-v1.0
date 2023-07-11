@@ -372,7 +372,7 @@ if __name__ == '__main__':
     cprint('\n                         -------     subscribe to us : https://t.me/spekulyantcrypto     -------', 'yellow')
 
     cprint('                         -------                         coders                          -------')
-    cprint('                         --------------  Gefest_forge:  https://t.me/gefest_forge --------------', 'green')
+    cprint('                         --------------  Gefest_forge:  https://t.me/forge_py     --------------', 'green')
     cprint('                         --------------  Crypto-Selkie: https://t.me/tawer_crypt  --------------', 'green')
     cprint('                         -------    donate:  0x9d9D67FAF623a2D78A1eaa07579b7128fCD79dd9  -------', 'white')
 
